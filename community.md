@@ -10,9 +10,9 @@ We also organise a monthly meetup where we mix and mingle in person, have a good
 Below is a list of community members. If you would like your name listed, either make a [pull request](https://help.github.com/articles/editing-files-in-another-user-s-repository/) directly on our [Github repository](https://github.com/arnoan/eu-dash/blob/master/community.md) or send the information you want to add via e-mail to Arno. (Listing your name here is of course entirely optional and voluntary.)
 
 
-Name | Institution | Role | Interests | Picture 
-:--- | :---------- | :--- | :-------- | :------
-Arno Angerer | School of Business & Economics at Maastricht University | M.Sc. Business Intelligence & Smart Services Student | R, Tableau, Predictive Modeling, Visualization | ![Arno](/assets/members/arno.png) |  
+Name | Position/Role | Interests | Picture 
+:--- | :------------ | :-------- | :------
+Arno Angerer | Master student with focus on Business Analytics at the Maastricht University School of Business & Economics | R, Predictive Modeling, Machine Learning, Data Visualization | ![Arno](/assets/members/arno.png) |  
 Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Notebooks, Health Services Research, interested in machine learning
 
 ## Code of Conduct
