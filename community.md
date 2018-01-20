@@ -14,6 +14,7 @@ Name | Position/Role | Interests | Picture
 :--- | :------------ | :-------- | :------
 Arno Angerer | Master student with focus on Business Analytics/Data Science at the Maastricht University School of Business & Economics | R, Predictive Modeling, Machine Learning, Data Visualization | ![Arno](/assets/members/arno.png) |  
 Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Notebooks, Health Services Research, interested in machine learning
+Praveen Koshy Sam | Master student in Data Science for Decision Making at Maastricht University Department of Knowledge Engineering | Python, Jupyter Notebooks, TensorFlow, Machine Learning, Bayesian Inferencing, Theoretical chitter-chatter
 
 ## Code of Conduct
 1) We **treat each other with respect**
