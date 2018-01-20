@@ -1,7 +1,7 @@
 [Home](README.md) // [Happenings](happenings.md) // **[Community](community.md)** // [Meetup](meetup.md)
 
 ## Community Chat on Gitter
-In order to facilitate easy contact between data enthusiasts in the region we provide an integrated **Community Chat** hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes. Please come and join the conversation in our [Gitter chat](https://gitter.im/eu-dash/Lobby).
+In order to facilitate easy contact between data enthusiasts in the region we have an integrated community chat hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes. Please come and join the conversation in our [Gitter chat](https://gitter.im/eu-dash/Lobby).
 
 ## Monthly Meetups
 We also organise a monthly meetup where we mix and mingle in person, have a good time and support each other in all data related themes. Come, learn, connect and have a good time! You can sign up and find more information about our upcoming meetups [here](https://www.meetup.com/euregio-data-science-meetup/).
@@ -18,11 +18,10 @@ Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Note
 ## Code of Conduct
 1) We treat each other with respect
 
-Our community members come from different backgrounds and and scientific disciplines. This implies that we may be accustomed to different methods and approaches to achieve similar outcomes. Please come with an open mindset and be open that others may approach problems in different way. We are all hear to learn from and grow with each other.
+Our community members come from diverse backgrounds and multiple scientific disciplines. This implies that we may be accustomed to different methods and approaches to achieve similar outcomes. Please come with an open mindset and be open that others may approach problems in different way. We are all hear to learn and grow from and with each other.
 
 2) Meetup time is fun time
-	- please leave behind your worries, fears and inhibitions
-	- no need to be afraid if you are a beginner. This is how everyone started and mistakes are not something to be ashamed of but valuable opportunities for learning and growth.
-	- we want to practice data science in a joyful way
-	- once you enjoy what you are doing you will naturally want to do more of it and become better in the process -> this is the most sustainable path to learning
-	- leave your expectations behind, take off the hat/role you carry at your work/university/institutation.. don't come as a job title, come us a curious mind, eager to learn and make some new friends
+
+- We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. 
+
+- So whenever you interact with our Data Science community and join the Meetups we warmly encourage you to leave your worries, fears and inhibitions behind. There is no need to be afraid if you are a beginner still – everyone starts small. Neither should you be afraid if you are already an 'expert' but feel you don't know enough. We want to practice data science in a joyful way. Since once we enjoy what we are doing, no matter where we currently are, we will naturally want to do more of it and become better in the process. Simply come as a curious mind, eager to learn, make some new friends and have a good time. Welcome to our joyful Data Science community!
