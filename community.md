@@ -22,8 +22,15 @@ Our community members come from diverse backgrounds and many different scientifi
 
 2) Remember: **Meetup time is fun time**
 
-- We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. 
+We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. So we want to practice data science in a joyful way. And once we enjoy what we are doing, no matter where we currently are, we will naturally want to do more of it and become better in the process. Simply come as a curious mind, eager to learn and make some new friends.
 
-- So whenever you interact with our Data Science community and join the Meetups, we warmly encourage you to leave your worries, fears and inhibitions behind. There is no need to be afraid if you are a beginner still – everyone starts small. Neither should you be afraid if you are already an 'expert' but feel you don't know enough. No matter where you are at this moment. You are exactly in the perfect place to start going deeper. Step by step.
+3) **You are a perfect fit for the community**, exactly where you are at this moment
 
-- We want to practice data science in a joyful way. Since once we enjoy what we are doing, no matter where we currently are, we will naturally want to do more of it and become better in the process. Simply come as a curious mind, eager to learn and make some new friends. Welcome to our joyful Data Science community!
+- Whenever you interact with our Data Science community and join the Meetups, we warmly encourage you to leave all your worries, fears and inhibitions behind. There is no need to be afraid if you are a beginner still – everyone starts small. Neither should you be afraid if you are already considered an 'expert' but feel you don't know enough. No matter where you are at this moment. You are exactly in the perfect place to start going deeper. Step by step. 
+
+- There is a lot to learn, but don’t feel overwhelmed. Start with a minimal subset of useful skills and build up over time. To paraphrase the Zen monk Shunryu Suzuki: “Each level of skill is perfect the way it is — and it can use a little improvement”.
+(This sentence is heavily inspired by Hadley Wickam who was [speaking about R packages](http://r-pkgs.had.co.nz/intro.html#) at the time. Yet I feel it fits equally well here.)
+
+Welcome to our joyful Data Science community!
+
+
