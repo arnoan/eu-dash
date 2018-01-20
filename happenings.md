@@ -44,8 +44,14 @@ The purpose of the SCRUM club is to explore and learn about software/tools for s
 #### Social Coding Maastricht
 A group of students, professionals and tech enthusiasts who combine expertise and know-how from various fields, share knowledge, explore, learn and build. Curious? Intrigued? Interested? Our doors are always open. [Here](https://www.meetup.com/if-coding-Maastricht/) you can find the meetup community.
 
-
 #### BISS Lunch Lecture Series
 
 
 #### Data Club of UMC+
+
+
+#### Kaggle Meetup (Greg)
+Focus is on Kaggle datasets and competitions
+
+#### Open AI Meetup (Aleksandra)
+Focus is on teaching Python & Machine Learning
