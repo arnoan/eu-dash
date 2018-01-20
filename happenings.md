@@ -28,7 +28,6 @@ Weekend, 20-22.4.2018 | [Dutch Health Hackathon](http://dutchhackinghealth.nl/en
 
 
 ## Detailed Descrptions
-For those of you new to the region, here is an overview with short descriptions of the various initiatives so you can get a better idea about the various possibilities available to you:
 
 #### Euregio Data Science Meetup
 The Euregio Data Science Meetup is a monthly activity for Data Enthusiasts of all backgrounds to learn, support and get to know each other in a warm and welcoming atmosphere. The focus is on building connections, helping each other out and learning by doing. You can sign up and find more information about our upcoming meetups [here](https://www.meetup.com/euregio-data-science-meetup/).
@@ -36,7 +35,7 @@ The Euregio Data Science Meetup is a monthly activity for Data Enthusiasts of al
 #### SCRUM Club Maastricht
 The purpose of the SCRUM club is to explore and learn about software/tools for scientific computing and research. A good example of such a tool is R, a free and open-source software environment for statistical computing and graphics. A lot of time is therefore devoted to teaching/learning about R, especially at the beginning. Later on, other topics will be covered and discussed. All club members are invited to suggest topics of interest.
 
-#### BISS Lunch Lecture Series
+#### IDS Workshop Series
 
 
 #### IDS Journal Club // Research in Progress Series
@@ -45,7 +44,8 @@ The purpose of the SCRUM club is to explore and learn about software/tools for s
 #### Social Coding Maastricht
 A group of students, professionals and tech enthusiasts. We combine expertise and know-how from various fields, share knowledge, explore, learn and build. Curious? Intrigued? Interested? Our doors are always open.
 
-#### IDS Workshop Series
+
+#### BISS Lunch Lecture Series
 
 
 #### Data Club of UMC+
