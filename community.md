@@ -1,4 +1,4 @@
-[Home](README.md) // [Happenings](happenings.md) // **[Community](community.md)** // [Meetup](meetup.md) <div style="text-align: right"> [![Join the chat at https://gitter.im/eu-data-science/Lobby](https://badges.gitter.im/eu-data-science/Lobby.svg)](https://gitter.im/eu-data-science/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) </div>
+[Home](README.md) // [Happenings](happenings.md) // **[Community](community.md)** // [Meetup](meetup.md).            [![Join the chat at https://gitter.im/eu-data-science/Lobby](https://badges.gitter.im/eu-data-science/Lobby.svg)](https://gitter.im/eu-data-science/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) </div>
 
 ## Community Chat on Gitter
 In order to facilitate easy contact between data enthusiasts in the region we have an integrated community chat hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes. Please come and join the conversation in our [Gitter chat](https://gitter.im/eu-dash/Lobby).
