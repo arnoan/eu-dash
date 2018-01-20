@@ -13,4 +13,4 @@ Our vision is to achieve three things:
 
 3) To host **a monthly physical meetup** with fluid structure where we get to know each other in person, work on interesting data sets together, discuss our dreams and struggles and help each other out.
 
-Most importantly this is a *community driven* initiative by people who care about data science and wish to build a cross-institutional community together. So please do feel warmly invited to bring in your ideas, feedback and dreams and get involved in any way you see fit.
+Most importantly this is a *community driven* initiative by people who care about data science and wish to build a cross-institutional community together. So please do feel warmly invited to bring in your ideas, feedback and dreams and feel encouraged to get involved in any way you see fit.
