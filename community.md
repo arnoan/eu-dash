@@ -18,7 +18,7 @@ Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Note
 ## Code of Conduct
 1) We **treat each other with respect**
 
-Our community members come from diverse backgrounds and multiple scientific disciplines. This implies that we may be accustomed to different methods and approaches to achieve similar outcomes. Please come with an open mindset and be open that others may approach problems in different way. We are all hear to learn and grow from and with each other.
+Our community members come from diverse backgrounds and many different scientific disciplines. This implies that we may be accustomed to different methods and approaches to achieve similar outcomes. Please come with an open mindset and be open that others may approach problems in different way. We are all hear to learn and grow from and with each other.
 
 2) **Meetup time is fun time**
 
