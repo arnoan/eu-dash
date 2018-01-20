@@ -20,7 +20,7 @@ Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Note
 
 Our community members come from diverse backgrounds and many different scientific disciplines. This implies that we may be accustomed to different methods and approaches to achieve similar outcomes. Please come with an open mindset and be open that others may approach problems in a different way. We are all hear to learn and grow from and with each other.
 
-2) **Meetup time is fun time**
+2) Remember: **Meetup time is fun time**
 
 - We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. 
 
