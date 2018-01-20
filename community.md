@@ -28,7 +28,7 @@ So we want to practice data science in a joyful way, free of judgement. And once
 
 3) **You are a perfect fit for the community**, exactly where you are at this moment
 
-Whenever you interact with our Data Science community and join the Meetups, we warmly encourage you to leave all your worries, fears and inhibitions behind. There is no need to be afraid if you are a beginner still – everyone starts small. Neither should you be afraid if you are already considered an 'expert' but feel you don't know enough. No matter where you are at this moment. You are exactly in the perfect place to start going deeper. Step by step. 
+Whenever you interact with our Data Science community and join the Meetups, we warmly encourage you to leave all your worries, fears and inhibitions behind. There is no need to be afraid if you are a beginner still – everyone starts small. Neither should you be afraid if you are already considered an 'expert' but feel you don't know enough. No matter where you are at this moment. You are exactly in the perfect place to start going deeper.
 
 There is a lot to learn, but don’t feel overwhelmed. Start with a minimal subset of useful skills and build up over time. To paraphrase the Zen monk Shunryu Suzuki: “Each level of skill is perfect the way it is — and it can use a little improvement”.
 (This sentence is heavily inspired by Hadley Wickam who was [speaking about R packages](http://r-pkgs.had.co.nz/intro.html#) at the time. Yet I feel it fits equally well here.)
