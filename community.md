@@ -16,11 +16,11 @@ Arno Angerer | School of Business & Economics at Maastricht University | M.Sc. B
 Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Notebooks, Health Services Research, interested in machine learning
 
 ## Code of Conduct
-1) We treat each other with respect
+1) We **treat each other with respect**
 
 Our community members come from diverse backgrounds and multiple scientific disciplines. This implies that we may be accustomed to different methods and approaches to achieve similar outcomes. Please come with an open mindset and be open that others may approach problems in different way. We are all hear to learn and grow from and with each other.
 
-2) Meetup time is fun time
+2) **Meetup time is fun time**
 
 - We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. 
 
