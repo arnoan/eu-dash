@@ -1,15 +1,13 @@
 [Home](README.md) // [Happenings](happenings.md) // **[Community](community.md)** // [Meetup](meetup.md)
 
 ## Community Chat on Gitter
-In order to facilitate easy contact between data scientists in the region we provide an integrated **Community Chat** hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes.
-
-Come join us in the [Gitter chat](https://gitter.im/eu-dash/Lobby). (:
+In order to facilitate easy contact between data enthusiasts in the region we provide an integrated **Community Chat** hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes. Please come and join the conversation in our [Gitter chat](https://gitter.im/eu-dash/Lobby).
 
 ## Monthly Meetups
-We also organise a monthly meetup where we mix and mingle in person, have a good time and support each other in all data related things we deal with on a daily basis. Come, learn, connect and have a good time! You can sign up and find more information about our upcoming meetups [here](https://www.meetup.com/euregio-data-science-meetup/).
+We also organise a monthly meetup where we mix and mingle in person, have a good time and support each other in all data related themes. Come, learn, connect and have a good time! You can sign up and find more information about our upcoming meetups [here](https://www.meetup.com/euregio-data-science-meetup/).
 
 ## Community Members
-Below is a list of community members. If you would like your name listed, either make a [pull request](https://help.github.com/articles/editing-files-in-another-user-s-repository/) on Github or send the information you want to add via e-mail to Arno. (Listing your name here is of course entirely optional and voluntary.)
+Below is a list of community members. If you would like your name listed, either make a [pull request](https://help.github.com/articles/editing-files-in-another-user-s-repository/) directly on our [Github repository](https://github.com/arnoan/eu-dash/blob/master/community.md) or send the information you want to add via e-mail to Arno. (Listing your name here is of course entirely optional and voluntary.)
 
 
 Name | Institution | Role | Interests | Picture 
