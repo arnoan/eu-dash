@@ -1,15 +1,15 @@
 [Home](README.md) // **[Happenings](happenings.md)** // [Community](community.md) // [Meetup](meetup.md)
 
 
-Here you find a comprehensive overview over all relevant initiatives, activities and events taking place in the region:
+On this page we aim to provide a comprehensive overview over all relevant initiatives, activities and events taking place in the region. You will find a concise overview with direct links to the events at the top of this page, as well as short summaries of the various ongoing initiatives and their respective vision and target group further down.
 
 ## Ongoing Initiatives/Regular Activities
 1. [Euregio Data Science Meetup](https://www.meetup.com/euregio-data-science-meetup/)
 2. [SCRUM Club Maastricht](https://wviechtb.github.io/scrum-club/)
-3. BISS Lunch Lecture Series
-4. [IDS Journal Club // Research in Progress Series](https://www.maastrichtuniversity.nl/research/institutes/ids/knowledge-platform/journal-club)
-5. IDS Workshop Series
-6. [Social Coding Maastricht](https://www.meetup.com/if-coding-Maastricht/)
+3. IDS Workshop Series (launches in March)
+4. [IDS Journal Club // Research in Progress Seminar](https://www.maastrichtuniversity.nl/research/institutes/ids/knowledge-platform/journal-club)
+5. [Social Coding Maastricht](https://www.meetup.com/if-coding-Maastricht/)
+6. BISS Lunch Lecture Series
 7. Data Club of UMC+
 8. (Kaggle Meetup - Greg)
 9. (Open AI Meetup - Aleksandra)
@@ -19,10 +19,11 @@ Here you find a comprehensive overview over all relevant initiatives, activities
 
 Date | Event | Location 
 :--- | :---- | :-------
-26.1.2018 | [UM Dies Natalis](https://www.maastrichtuniversity.nl/events/dies-natalis-celebration) | Maastricht
-5.2.2018 | [BISS Seminar: Creating business insights from customer and employee data](https://www.brightlands.com/news-events/biss-seminar-creating-business-insights-customer-and-employee-data) | Brightlands, Heerlen
+25.1.2018 | [Symposium: The Future of a Data-Driven Society](https://www.maastrichtuniversity.nl/events/symposium-future-data-driven-society) | Maastricht University
+26.1.2018 | [UM Dies Natalis: The Future of a Data-Driven Society](https://www.maastrichtuniversity.nl/events/dies-natalis-celebration) | Maastricht University
+5.2.2018 | [BISS Seminar: Creating Business Insights from Customer and Employee Data](https://www.brightlands.com/news-events/biss-seminar-creating-business-insights-customer-and-employee-data) | Brightlands Smart Services Campus, Heerlen
 1.3.2018 | [Google Hash Code 2018 @Maastricht](https://docs.google.com/spreadsheets/d/1wTE-9QRsvVFLiPD7vkpfJru9Rj8FQp_AJT3sdgJw3O0/edit#gid=0) | Tapijn Kazerne, Building Z
-3-4.3.2018 | [Rethinking Justice Hackathon](http://rethinkingjustice.eu) | Brightlands
+3-4.3.2018 | [Rethinking Justice Hackathon](http://rethinkingjustice.eu) | Brightlands Smart Services Campus
 20-22.4.2018 | [Dutch Health Hackathon](http://dutchhackinghealth.nl/en/home/)
 
 
