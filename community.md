@@ -1,7 +1,7 @@
 [Home](README.md) // [Happenings](happenings.md) // **[Community](community.md)** // [Meetup](meetup.md) // [Chat on Gitter](https://gitter.im/eu-data-science/Lobby)
 
 ## Community Chat on Gitter
-In order to facilitate easy contact between data enthusiasts in the region we have an integrated community chat hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes. Please come and join the conversation in our [Gitter chat](https://gitter.im/eu-dash/Lobby).
+In order to facilitate easy contact between data enthusiasts in the region we have an integrated community chat hosted on Gitter where you can easily interact with your peers. Sub-channels exist for focused discussion on specific themes. Please come and join the conversation in our [Gitter chat](https://gitter.im/eu-data-science/Lobby).
 
 ## Monthly Meetups
 We also organise a monthly meetup where we mix and mingle in person, have a good time and support each other in all data related themes. Come, learn, connect and have a good time! You can sign up and find more information about our upcoming meetups [here](https://www.meetup.com/euregio-data-science-meetup/).
