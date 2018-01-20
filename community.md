@@ -22,7 +22,9 @@ Our community members come from diverse backgrounds and many different scientifi
 
 2) Remember: **Meetup time is fun time**
 
-We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. So we want to practice data science in a joyful way. And once we enjoy what we are doing, no matter where we currently are, we will naturally want to do more of it and become better in the process. Simply come as a curious mind, eager to learn and make some new friends.
+We believe to foster a healthy attitude towards growth and learning it is important to create the right kind of atmosphere. If we enjoy what we are doing and can approach Data Science with a relaxed, even playful state of mind it is much easier to stay motivated and deepen our learning. Playfulness is also a great creativity booster and aids in problem solving, one of the most essential qualities for a Data Enthuiast to have. 
+
+So we want to practice data science in a joyful way. And once we enjoy what we are doing, no matter where we currently are, we will naturally want to do more of it and become better in the process. Simply come as a curious mind, eager to learn and make some new friends.
 
 3) **You are a perfect fit for the community**, exactly where you are at this moment
 
