@@ -1,4 +1,4 @@
-**[Home](README.md)** // [Happenings](happenings.md) // [Community](community.md) // [Meetup](meetup.md)
+**[Home](README.md)** // [Happenings](happenings.md) // [Community](community.md) // [Meetup](meetup.md) // [Chat on Gitter](https://gitter.im/eu-data-science/Lobby)
 
 ## Introduction
 
