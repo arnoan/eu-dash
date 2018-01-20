@@ -1,4 +1,4 @@
-[Home](README.md) // **[Happenings](happenings.md)** // [Community](community.md) // [Meetup](meetup.md)
+[Home](README.md) // **[Happenings](happenings.md)** // [Community](community.md) // [Meetup](meetup.md) // [Chat on Gitter](https://gitter.im/eu-data-science/Lobby)
 
 
 On this page we aim to provide a comprehensive overview over all relevant initiatives, activities and events taking place in the region. You will find a concise overview with direct links to the events at the top of this page, as well as short summaries of the various ongoing initiatives and their respective vision and target group further down.
