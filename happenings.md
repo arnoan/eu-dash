@@ -47,16 +47,16 @@ The Journal club serves as a forum to learn about, discuss and critique high imp
 A group of students, professionals and tech enthusiasts who combine expertise and know-how from various fields, share knowledge, explore, learn and build. Curious? Intrigued? Interested? Our doors are always open. [Here](https://www.meetup.com/if-coding-Maastricht/) you can find the meetup community.
 
 #### BISS Lunch Lecture Series
-
+More information will be made available soon.
 
 #### Data Club of UMC+
-
+More information will be made available soon.
 
 #### IDS Research in Progress Seminar
 The IDS Research-in-Progress seminar brings together data scientists from across Maastricht University to discuss breakthroughs and research topics that are related to Data Science. We also welcome interested students, colleagues and industry partners to experience bleeding edge presentations and discussion rounds. [Here](https://www.maastrichtuniversity.nl/research/institutes/ids/knowledge-platform/research-progress-seminar) you can find more information.
 
 #### Kaggle Meetup (Greg)
-Focus is on Kaggle datasets and competitions
+Focus is on Kaggle datasets and competitions. More information will be made available soon.
 
 #### Open AI Meetup (Aleksandra)
-Focus is on teaching Python & Machine Learning
+Focus is on teaching Python & Machine Learning. More information will be made available soon.
