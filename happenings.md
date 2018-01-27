@@ -11,8 +11,9 @@ On this page we aim to provide a comprehensive overview over all relevant initia
 5. [Social Coding Maastricht](#social-coding-maastricht)
 6. [BISS Lunch Lecture Series](#biss-lunch-lecture-series)
 7. [Data Club of UMC+](#data-club-of-umc)
-8. (Kaggle Meetup - Greg)
-9. (Open AI Meetup - Aleksandra)
+8. [IDS Research in Progress Seminar](#ids-research-in-progress-seminar)
+9. (Kaggle Meetup - Greg)
+10. (Open AI Meetup - Aleksandra)
 
 
 ## Upcoming Events of Interest
@@ -40,7 +41,7 @@ The purpose of the SCRUM club is to explore and learn about software/tools for s
 The goal of the Institute of Data Science Workshop Series is to enhance the capability of the Data Science community through a set of recurring, low-barrier, hands-on seminars. The target audience are students and researchers, and also staff members and practicing professionals who wish to get exposure and deepen their knowledge and skills in Data Science. Participants should be familiar with basic programming and execution at the command-line. More information will be made available soon.
 
 #### IDS Journal Club
-
+The Journal club serves as a forum to learn about, discuss and critique high impact publications from all facets of Data Science. We welcome and encourage anyone to use our club as a platform to learn about exciting new developments and how techniques in this field can help you make sense of the data you care about. [Here](https://www.maastrichtuniversity.nl/research/institutes/ids/knowledge-platform/journal-club) you can find more information.
 
 #### Social Coding Maastricht
 A group of students, professionals and tech enthusiasts who combine expertise and know-how from various fields, share knowledge, explore, learn and build. Curious? Intrigued? Interested? Our doors are always open. [Here](https://www.meetup.com/if-coding-Maastricht/) you can find the meetup community.
@@ -50,6 +51,9 @@ A group of students, professionals and tech enthusiasts who combine expertise an
 
 #### Data Club of UMC+
 
+
+#### IDS Research in Progress Seminar
+The IDS Research-in-Progress seminar brings together data scientists from across Maastricht University to discuss breakthroughs and research topics that are related to Data Science. We also welcome interested students, colleagues and industry partners to experience bleeding edge presentations and discussion rounds. [Here](https://www.maastrichtuniversity.nl/research/institutes/ids/knowledge-platform/research-progress-seminar) you can find more information.
 
 #### Kaggle Meetup (Greg)
 Focus is on Kaggle datasets and competitions
