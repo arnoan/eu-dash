@@ -5,5 +5,5 @@ description: The one stop shop for all Data Science related happenings in the re
 
 show_downloads: false
 
-
-
+# Google Analytics
+google_analytics: UA-113156213-1
