@@ -29,7 +29,7 @@ Tuesday, 6.3.2018 | IDS Workshop: Docker for Data Science | To be announced
 Weekend, 20-22.4.2018 | [Dutch Health Hackathon](http://dutchhackinghealth.nl/en/home/) | To be announed
 
 
-## Detailed Descrptions
+## Detailed Descriptions
 
 #### Euregio Data Science Meetup
 The Euregio Data Science Meetup is a monthly gathering for Data Enthusiasts of all backgrounds to learn, support and get to know each other in a warm and welcoming atmosphere. The focus is on building connections, helping each other out and learning by doing. You can sign up and find more information about our upcoming meetups [here](https://www.meetup.com/euregio-data-science-meetup/).
