@@ -18,6 +18,7 @@ Praveen Koshy Sam | Master student in Data Science for Decision Making at Maastr
 Kody Moodley | Postdoc at Institute of Data Science, Maastricht University | Python, R, Jupyter Notebooks, Machine Learning, Automated Reasoning, Ontologies, Data Science in the legal domain | ![Kody](/assets/members/kody.jpeg)
 Paul Kleinschmidt | Master student with focus on Business Analytics/Data Science at the Maastricht University School of Business & Economics | R, Python, Machine Learning, Deep Learning, Kaggle 
 Amrapali Zaveri | Postdoctoral researcher at Institute of Data Science, Maastricht University | Linked Data, Data Integration, Data Quality, Crowdsourcing, Machine learning, Biomedical (meta)data analysis and quality | ![Amrapali](/assets/members/amrapali.jpeg)
+Frederik Calsius | Bachelor student Data Science and Knowledge Engineering at Maastricht University | Python, Java, Machine Learning, Data Science | 
 
 ## Code of Conduct
 1) We **treat each other with respect**
