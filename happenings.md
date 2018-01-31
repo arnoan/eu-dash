@@ -20,8 +20,7 @@ On this page we aim to provide a comprehensive overview over all relevant initia
 
 Date | Event | Location 
 :--- | :---- | :-------
-Thursday, 25.1.2018 | [Symposium: The Future of a Data-Driven Society](https://www.maastrichtuniversity.nl/events/symposium-future-data-driven-society) | Maastricht University
-Friday, 26.1.2018 | [UM Dies Natalis: The Future of a Data-Driven Society](https://www.maastrichtuniversity.nl/events/dies-natalis-celebration) | Maastricht University
+Wednesday, 31.1.2018 | [SCRUM Club – R & Packages](https://wviechtb.github.io/scrum-club/schedule.html) | Greepzaal at the AZM/MUMC+ 16:30-18:00
 Monday, 5.2.2018 | [BISS Seminar: Creating Business Insights from Customer and Employee Data](https://www.brightlands.com/news-events/biss-seminar-creating-business-insights-customer-and-employee-data) | Brightlands Smart Services Campus, Heerlen
 Thursday, 1.3.2018 | [Google Hash Code 2018 @Maastricht](https://www.facebook.com/events/249341432264801/) | Tapijn Kazerne, Building Z
 Weekend, 3-4.3.2018 | [Rethinking Justice Hackathon](http://rethinkingjustice.eu) | Brightlands Smart Services Campus
