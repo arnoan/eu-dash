@@ -7,7 +7,7 @@ On this page we aim to provide a comprehensive overview over all relevant initia
 1. [Euregio Data Science Meetup](#euregio-data-science-meetup)
 2. [SCRUM Club Maastricht](#scrum-club-maastricht)
 3. [IDS Workshop Series](#ids-workshop-series) (launches in March)
-4. [IDS Research in Progress and Journal Club Series](##ids-research-in-progress-and-journal-club-series)
+4. [IDS Research in Progress and Journal Club Series](#ids-research-in-progress-and-journal-club-series)
 5. [Social Coding Maastricht](#social-coding-maastricht)
 6. [BISS Lunch Lecture Series](#biss-lunch-lecture-series)
 7. [Data Club of UMC+](#data-club-of-umc)
