@@ -21,6 +21,7 @@ Date | Event | Location
 :--- | :---- | :-------
 Wednesday, 14.02.2018 | [SCRUM Club: Introduction to Dask (parallel computing library for Python)](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 21.02.2018 | [Euregio Data Science Meetup](https://www.meetup.com/euregio-data-science-meetup/). | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
+Thursday, 22.02.2018 | [IDS Research-in-Progress Talk: Timepix3 as direct electron detector for cyro-EM](http://www.signupgenius.com/go/5080f4aaaad2da7f85-idsresearchinpro) | Co-Greepzaal - UNS60
 Wednesday, 28.02.2018 | [SCRUM Club: Version Control (Git/GitHub)](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Thursday, 1.3.2018 | [Google Hash Code 2018 @Maastricht](https://www.facebook.com/events/249341432264801/) | Tapijn Kazerne, Building Z
 Weekend, 3-4.3.2018 | [Rethinking Justice Hackathon](http://rethinkingjustice.eu) | Brightlands Smart Services Campus
