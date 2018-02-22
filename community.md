@@ -19,7 +19,9 @@ Kody Moodley | Postdoc at Institute of Data Science, Maastricht University | Pyt
 Paul Kleinschmidt | Master student with focus on Business Analytics/Data Science at the Maastricht University School of Business & Economics | R, Python, Machine Learning, Deep Learning, Kaggle 
 Amrapali Zaveri | Postdoctoral researcher at Institute of Data Science, Maastricht University | Linked Data, Data Integration, Data Quality, Crowdsourcing, Machine learning, Biomedical (meta)data analysis and quality | ![Amrapali](/assets/members/amrapali.jpeg)
 Frederik Calsius | Bachelor student Data Science and Knowledge Engineering at Maastricht University | Python, Java, Machine Learning, Data Science | 
-Ibrahim Hashim | Research assistant at DeWeerd Lab | Python, Machine Learning, Data Science, Aritifical Intelligence | 
+Ibrahim Hashim | Research assistant at DeWeerd Lab | Python, Machine Learning, Data Science, Aritifical Intelligence |
+Indra Gesink | Master student in Econometrics and Systems Biology at Maastricht University | Machine learning, Darwinian approaches, like self-play. Making life easier and interesting with Data Science, Modeling |
+
 
 ## Code of Conduct
 1) We **treat each other with respect**
