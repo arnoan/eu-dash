@@ -27,17 +27,23 @@ Weekend, 3-4.3.2018 | [Rethinking Justice Hackathon](http://rethinkingjustice.eu
 Tuesday, 6.3.2018 | [IDS Workshop: Docker for Data Science](https://www.facebook.com/events/181216312485829/) | Institute of Data Science, UNS 60
 Wednesday, 7.03.2018 | [March Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
 Wednesday, 14.03.2018 | SCRUM Club: More on Version Control | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+Thursday, 15.3.2018 | [IDS Workshop: Blockchain for Science](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 28.03.2018 | SCRUM Club: Reference Managers | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 11.04.2018 | SCRUM Club: Data Visualization using Tableau | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+Thursday, 12.4.2018 | [IDS Workshop: Machine Learning](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 18.04.2018 | [April Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
 Weekend, 20-22.4.2018 | [Dutch Health Hackathon](http://dutchhackinghealth.nl/en/home/) | To be announed
 Wednesday, 25.04.2018 | SCRUM Club: Intro to LaTeX | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 09.05.2018 | SCRUM Club: Jupyter | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 16.05.2018 | [May Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
 Wednesday, 23.05.2018 | SCRUM Club: Command Line Interfaces | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+Thursday, 31.5.2018 | [IDS Workshop: Ontologies](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 06.06.2018 | SCRUM Club: Remote Computing | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+Mon-Wed, 11-13.6.2018 | [Symposium on conformal and probabilitstic prediction with applications (COPA 2018)](http://www.clrc.rhul.ac.uk/copa2018/index.html) | To be announced
+Tuesday, 12.6.2018 | [IDS Workshop: Crowdsourcing](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 13.06.2018 | [June Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
 Wednesday, 20.06.2018 | SCRUM Club: Cloud Computing | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+Thursday, 28.6.2018 | [IDS Workshop: FAIR Data Principles](https://www.facebook.com/IDSatUM/) | To be announced
 
 
 #### Euregio Data Science Meetup
