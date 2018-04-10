@@ -32,12 +32,12 @@ Wednesday, 28.03.2018 | SCRUM Club: Reference Managers | [Greepzaal at the AZM/M
 Wednesday, 11.04.2018 | [SCRUM Club: Data Visualization using Tableau](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Thursday, 12.4.2018 | [IDS Workshop: Machine Learning](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 18.04.2018 | [April Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
-Weekend, 20-22.4.2018 | [Dutch Health Hackathon](http://dutchhackinghealth.nl/en/home/) | To be announed
+Weekend, 20-22.4.2018 | [Dutch Health Hackathon](https://www.maastrichtuniversity.nl/news-events/newsletters/article/rT0KhjplgFfQJOovzz+u3Q) | Check website for details
 Wednesday, 25.04.2018 | [SCRUM Club: Intro to LaTeX](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 09.05.2018 | [SCRUM Club: Jupyter](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 16.05.2018 | [May Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
 Wednesday, 23.05.2018 | [SCRUM Club: Command Line Interfaces](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
-Friday, 25.05.2018 | Julia Workshop hosted by SCRUM | To be announced
+Friday, 25.05.2018 | Julia Workshop hosted by SCRUM Club | To be announced
 Thursday, 31.5.2018 | [IDS Workshop: Ontologies](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 06.06.2018 | [SCRUM Club: Remote Computing](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Mon-Wed, 11-13.6.2018 | [Symposium on conformal and probabilitstic prediction with applications (COPA 2018)](http://www.clrc.rhul.ac.uk/copa2018/index.html) | To be announced
