@@ -30,9 +30,9 @@ Wednesday, 14.03.2018 | SCRUM Club: More on Version Control | [Greepzaal at the 
 Thursday, 15.3.2018 | [IDS Workshop: Blockchain for Science](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 28.03.2018 | SCRUM Club: Reference Managers | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 11.04.2018 | [SCRUM Club: Data Visualization using Tableau](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
-Thursday, 12.4.2018 | [IDS Workshop: Machine Learning](https://www.facebook.com/IDSatUM/) | To be announced
 Wednesday, 18.04.2018 | [April Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
 Weekend, 20-22.4.2018 | [Dutch Health Hackathon](https://www.maastrichtuniversity.nl/news-events/newsletters/article/rT0KhjplgFfQJOovzz+u3Q) | Check website for details
+Tuesday, 24.4.2018 | [IDS Workshop: Machine Learning](https://www.maastrichtuniversity.nl/events/machine-learning/) | To be announced
 Wednesday, 25.04.2018 | [SCRUM Club: Intro to LaTeX](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 09.05.2018 | [SCRUM Club: Jupyter](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 16.05.2018 | [May Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
