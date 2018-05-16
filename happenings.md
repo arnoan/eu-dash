@@ -35,7 +35,7 @@ Weekend, 20-22.4.2018 | [Dutch Health Hackathon](https://www.maastrichtuniversit
 Tuesday, 24.4.2018 | [IDS Workshop: Machine Learning](https://www.maastrichtuniversity.nl/events/machine-learning/) | To be announced
 Wednesday, 25.04.2018 | [SCRUM Club: Intro to LaTeX](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Wednesday, 09.05.2018 | [SCRUM Club: Jupyter](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
-Wednesday, 16.05.2018 | [May Data Science Meetup](https://www.meetup.com/Euregio-Data-Science-Meetup/) | EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)
+Wednesday, 16.05.2018 | [~~May Data Science Meetup~~ (Cancelled)](https://www.meetup.com/Euregio-Data-Science-Meetup/) | ~~EDLAB room 0.12, Tapijn Kazerne Building X (Sint Hubertuslaan 12)~~
 Wednesday, 23.05.2018 | [SCRUM Club: Command Line Interfaces](https://wviechtb.github.io/scrum-club/schedule.html) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 Friday, 25.05.2018 | Julia Workshop hosted by SCRUM Club | To be announced
 Thursday, 31.5.2018 | [IDS Workshop: Ontologies](https://www.facebook.com/IDSatUM/) | To be announced
